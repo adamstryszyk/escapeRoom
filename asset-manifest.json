@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/escapeRoom/static/css/main.233b3b67.css",
+    "main.js": "/escapeRoom/static/js/main.79720f82.js",
+    "static/js/787.618e7926.chunk.js": "/escapeRoom/static/js/787.618e7926.chunk.js",
+    "static/media/polish_bg.webp": "/escapeRoom/static/media/polish_bg.d51ca621116b43794a6b.webp",
+    "index.html": "/escapeRoom/index.html",
+    "main.233b3b67.css.map": "/escapeRoom/static/css/main.233b3b67.css.map",
+    "main.79720f82.js.map": "/escapeRoom/static/js/main.79720f82.js.map",
+    "787.618e7926.chunk.js.map": "/escapeRoom/static/js/787.618e7926.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233b3b67.css",
+    "static/js/main.79720f82.js"
+  ]
+}
