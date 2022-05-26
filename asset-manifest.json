@@ -1,11 +1,24 @@
 {
   "files": {
     "main.css": "/escapeRoom/static/css/main.233b3b67.css",
-    "main.js": "/escapeRoom/static/js/main.932e4507.js",
+    "main.js": "/escapeRoom/static/js/main.1b464a36.js",
     "static/js/787.618e7926.chunk.js": "/escapeRoom/static/js/787.618e7926.chunk.js",
     "static/media/klasa3.png": "/escapeRoom/static/media/klasa3.a615a31f8537d1995d57.png",
+    "static/media/music_bg.jpg": "/escapeRoom/static/media/music_bg.8253c7b439359b9a4a94.jpg",
+    "static/media/metal.mp3": "/escapeRoom/static/media/metal.8702d3db0f3bcd2b05fe.mp3",
     "static/media/congrats2.gif": "/escapeRoom/static/media/congrats2.48661c49745f502d6d96.gif",
+    "static/media/randb.mp3": "/escapeRoom/static/media/randb.5e3c5198a704721b2270.mp3",
     "static/media/board_bg.webp": "/escapeRoom/static/media/board_bg.0bffc1f49e2affaaaac5.webp",
+    "static/media/classical.mp3": "/escapeRoom/static/media/classical.ab10f640b30ef429693e.mp3",
+    "static/media/hiphop.mp3": "/escapeRoom/static/media/hiphop.060d5f452af488fb7793.mp3",
+    "static/media/jazz.mp3": "/escapeRoom/static/media/jazz.7adf4a101ee122c9dd6e.mp3",
+    "static/media/pop.mp3": "/escapeRoom/static/media/pop.5059cf6b16c4cae5c4ac.mp3",
+    "static/media/country.mp3": "/escapeRoom/static/media/country.cbb58ff44e42cd079ca3.mp3",
+    "static/media/rock.mp3": "/escapeRoom/static/media/rock.5c900729c9c0e30232c4.mp3",
+    "static/media/blues.mp3": "/escapeRoom/static/media/blues.e7feb2b4491ea1f6994b.mp3",
+    "static/media/gramophone2.png": "/escapeRoom/static/media/gramophone2.3f72c7fa61fe0a7d5d1a.png",
+    "static/media/techno.mp3": "/escapeRoom/static/media/techno.eeef2c1dbb840bb08053.mp3",
+    "static/media/gramophone.png": "/escapeRoom/static/media/gramophone.0c3b5d3fed855f06ad59.png",
     "static/media/polish_bg.webp": "/escapeRoom/static/media/polish_bg.d51ca621116b43794a6b.webp",
     "static/media/kalsa1.png": "/escapeRoom/static/media/kalsa1.bea50078eab905dc2fc0.png",
     "static/media/congrats_bg.webp": "/escapeRoom/static/media/congrats_bg.723ccf3c0e12c499b455.webp",
@@ -13,14 +26,15 @@
     "static/media/cryptex_right.png": "/escapeRoom/static/media/cryptex_right.d1685c2b850d4ecc5048.png",
     "static/media/wrong.mp3": "/escapeRoom/static/media/wrong.b44af2938f2c402c27b7.mp3",
     "static/media/texture.png": "/escapeRoom/static/media/texture.ea9301db35cd11849256.png",
+    "static/media/disc.png": "/escapeRoom/static/media/disc.36b9ae3608c5444df241.png",
     "static/media/wrong.png": "/escapeRoom/static/media/wrong.fdeabe3cad4e65ebedf9.png",
     "index.html": "/escapeRoom/index.html",
     "main.233b3b67.css.map": "/escapeRoom/static/css/main.233b3b67.css.map",
-    "main.932e4507.js.map": "/escapeRoom/static/js/main.932e4507.js.map",
+    "main.1b464a36.js.map": "/escapeRoom/static/js/main.1b464a36.js.map",
     "787.618e7926.chunk.js.map": "/escapeRoom/static/js/787.618e7926.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.233b3b67.css",
-    "static/js/main.932e4507.js"
+    "static/js/main.1b464a36.js"
   ]
 }
