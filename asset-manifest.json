@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/escapeRoom/static/css/main.233b3b67.css",
-    "main.js": "/escapeRoom/static/js/main.a1c91400.js",
+    "main.js": "/escapeRoom/static/js/main.932e4507.js",
     "static/js/787.618e7926.chunk.js": "/escapeRoom/static/js/787.618e7926.chunk.js",
+    "static/media/klasa3.png": "/escapeRoom/static/media/klasa3.a615a31f8537d1995d57.png",
+    "static/media/congrats2.gif": "/escapeRoom/static/media/congrats2.48661c49745f502d6d96.gif",
+    "static/media/board_bg.webp": "/escapeRoom/static/media/board_bg.0bffc1f49e2affaaaac5.webp",
     "static/media/polish_bg.webp": "/escapeRoom/static/media/polish_bg.d51ca621116b43794a6b.webp",
+    "static/media/kalsa1.png": "/escapeRoom/static/media/kalsa1.bea50078eab905dc2fc0.png",
+    "static/media/congrats_bg.webp": "/escapeRoom/static/media/congrats_bg.723ccf3c0e12c499b455.webp",
+    "static/media/cryptex_left.png": "/escapeRoom/static/media/cryptex_left.2b6fdff93f84741d0311.png",
+    "static/media/cryptex_right.png": "/escapeRoom/static/media/cryptex_right.d1685c2b850d4ecc5048.png",
     "static/media/wrong.mp3": "/escapeRoom/static/media/wrong.b44af2938f2c402c27b7.mp3",
+    "static/media/texture.png": "/escapeRoom/static/media/texture.ea9301db35cd11849256.png",
     "static/media/wrong.png": "/escapeRoom/static/media/wrong.fdeabe3cad4e65ebedf9.png",
     "index.html": "/escapeRoom/index.html",
     "main.233b3b67.css.map": "/escapeRoom/static/css/main.233b3b67.css.map",
-    "main.a1c91400.js.map": "/escapeRoom/static/js/main.a1c91400.js.map",
+    "main.932e4507.js.map": "/escapeRoom/static/js/main.932e4507.js.map",
     "787.618e7926.chunk.js.map": "/escapeRoom/static/js/787.618e7926.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.233b3b67.css",
-    "static/js/main.a1c91400.js"
+    "static/js/main.932e4507.js"
   ]
 }
